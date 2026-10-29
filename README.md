@@ -42,7 +42,7 @@ Organizar os dados de clientes, destinos, reservas e pagamentos, reduzindo erros
 
 **Métodos Usados Para o Banco**
 
-![Métdos Usados](
+![Métdos Usados](Metodos_Usados.png)
 
 
 
