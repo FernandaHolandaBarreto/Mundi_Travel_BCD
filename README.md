@@ -32,7 +32,11 @@ Organizar os dados de clientes, destinos, reservas e pagamentos, reduzindo erros
 ![Modelagem do Banco de Dados](Agência-de-Viagem-Diagrama.png)
 
 
--Tabelas Criadas
+
+
+**Tabelas Criadas**
+
+![Tabelas Criadas](
 
 
 
