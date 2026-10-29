@@ -17,8 +17,8 @@ Problemas que buscamos resolver
 - Registros duplicados;
 - Dificuldade no controle de pagamentos.
 
-Modelagem:
-![Modelagem do Banco de Dados](Agência de Viagem Diagrama (2).png)
+#Modelagem:
+![Modelagem do Banco de Dados](Agência-de-Viagem-Diagrama.png)
 
 
 
