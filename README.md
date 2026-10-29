@@ -18,7 +18,7 @@ Problemas que buscamos resolver
 - Dificuldade no controle de pagamentos.
 
 - Modelagem:
-<img width="1109" height="877" alt="Agência de Viagem Diagrama (1)" src="https://github.com/user-attachments/assets/fffe6c8d-8a91-4326-8f41-6f487ac84395" />
+![Modelagem do Banco de Dados](./Agência de Viagem Diagrama (2).png)
 
 
 
